@@ -1,0 +1,13 @@
+Responsive React Sidebar Navigation
+This project demonstrates a fully responsive sidebar navigation built with React. It includes a sidebar with navigation links, icons, and a toggle feature for mobile view. The app leverages react-router-dom for navigation between different pages and react-icons for including icons in the sidebar.
+
+#Features
+Responsive Sidebar: The sidebar adapts to various screen sizes.
+
+Navigation Links: Includes links to Dashboard, Products, Categories, Customers, Inventory, Reports, and Settings.
+
+Mobile-First Design: Sidebar is collapsible on smaller screens, providing a user-friendly experience on both desktop and mobile devices.
+
+Icons: Uses react-icons to add visually appealing icons to the sidebar links.
+
+React Router: Implements client-side routing to navigate between pages.
